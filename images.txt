@@ -1,3 +1,4 @@
 xhofe/alist:latest
-overv/openstreetmap-tile-server:latest --platform=linux/arm64
+overv/openstreetmap-tile-server:latest 
+--platform=linux/arm64 overv/openstreetmap-tile-serve
 
