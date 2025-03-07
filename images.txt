@@ -3,3 +3,4 @@ xhofe/alist:latest
 --platform=linux/arm64  overv/openstreetmap-tile-server:latest
 apache/doris:build-env-ldb-toolchain-latest
 ollama/ollama:latest
+langgenius/dify-web:latest
